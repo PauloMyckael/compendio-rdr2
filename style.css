@@ -1,0 +1,24 @@
+/* font api */
+
+@import url('https://fonts.cdnfonts.com/css/chinese-rocks');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Chinese Rocks Rg', sans-serif;
+}
+
+footer{
+    background-color: black;
+    font-size: 2.9vh;
+    text-align: center;
+    color: #ffffff;
+}
+
+footer a{
+    text-decoration: none;
+    color: #ffffff;
+}
